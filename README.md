@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
 </div>
-<div style="width:30%;height:30%;">
+<div style="width:35%;">
   <img src="https://user-images.githubusercontent.com/111365376/219318639-e2696e8f-d58a-48de-a14b-102490f2b69a.png">
 </div>
 <!--
