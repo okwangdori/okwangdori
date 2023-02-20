@@ -31,12 +31,12 @@
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
 </div>
-<div>
+<div style="margin-top:100px;">
   <h4>🏃 Stats</h4>
   <img src="https://github-readme-stats.vercel.app/api?username=okwangdori&show_icons=true&theme=merko"></img>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okwangdori&layout=compact&theme=merko"></img>
 </div>
-<div>
+<div style="margin-top:100px;">
   <h4>✨ Portfolio</h4>
   <a href="http://okwangdori.github.io">
 <!--     <img style="height:400px;" src="https://user-images.githubusercontent.com/111365376/220102358-dde02b39-f133-4d56-8bfa-7fbd5b07b2df.PNG"></img> -->
