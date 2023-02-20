@@ -1,10 +1,6 @@
 <div align="center">
   <h3>Hi! I'm Jiwon 👋</h3>
 </div>
-<div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okwangdori&show_icons=true&theme=dark)
-</div>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=okwangdori&show_icons=true&theme=tokyonight)
 <h4>🛠️ Things I code with</h4>
 <div>
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
@@ -34,4 +30,9 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+</div>
+<div>
+  <h4>🏃 Stats</h4>
+  <img src="https://github-readme-stats.vercel.app/api?username=okwangdori&show_icons=true&theme=dracula"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okwangdori&layout=compact&theme=dracula"></img>
 </div>
