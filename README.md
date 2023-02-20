@@ -33,8 +33,8 @@
 </div>
 <div>
   <h4>🏃 Stats</h4>
-  <img src="https://github-readme-stats.vercel.app/api?username=okwangdori&show_icons=true&theme=dracula"></img>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okwangdori&layout=compact&theme=dracula"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=okwangdori&show_icons=true&theme=merko"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okwangdori&layout=compact&theme=merko"></img>
 </div>
 <div>
   <h4>✨ Portfolio</h4>
