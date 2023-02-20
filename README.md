@@ -1,6 +1,10 @@
 <div align="center">
   <h3>Hi! I'm Jiwon 👋</h3>
 </div>
+<div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okwangdori&show_icons=true&theme=dark)
+</div>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=okwangdori&show_icons=true&theme=tokyonight)
 <h4>🛠️ Things I code with</h4>
 <div>
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
