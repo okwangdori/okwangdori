@@ -39,6 +39,7 @@
 <div>
   <h4>✨ Portfolio</h4>
   <a href="http://okwangdori.github.io">
-    <img style="height:400px;" src="https://user-images.githubusercontent.com/111365376/220102358-dde02b39-f133-4d56-8bfa-7fbd5b07b2df.PNG"></img>
+<!--     <img style="height:400px;" src="https://user-images.githubusercontent.com/111365376/220102358-dde02b39-f133-4d56-8bfa-7fbd5b07b2df.PNG"></img> -->
+    <img style="height:400px;" src="https://user-images.githubusercontent.com/111365376/220105486-7b158517-4e47-4178-8ba9-7d2b7ac09a82.PNG"></img>  
   </a>
 </div>
