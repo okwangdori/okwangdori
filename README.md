@@ -1,5 +1,7 @@
-### Hi! I'm Jiwon 👋
-🛠️ Things I code with
+<div align="center">
+  <h3>Hi! I'm Jiwon 👋</h3>
+</div>
+<h4>🛠️ Things I code with</h4>
 <div>
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white">
