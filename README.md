@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Scss-CC6699?style=flat&logo=Sass&logoColor=white">
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=ESLint&logoColor=white">
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white">  
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">  
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white">      
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">  
